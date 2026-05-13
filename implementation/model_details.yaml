@@ -1,0 +1,8 @@
+model_name: |
+  openai/gpt-4.1-nano
+
+embedding_model: |
+  text-embedding-3-large
+
+
+
